@@ -47,19 +47,19 @@ export default function Login() {
       <div className="w-full max-w-md">
         {/* Logo and Welcome Section */}
         <div className="text-center mb-10 animate-fade-in">
-          <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-gradient-primary mb-4 shadow-soft-md">
-            <span className="text-2xl font-bold text-white">D</span>
+          <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-gradient-to-br from-primary-500 via-primary-600 to-accent-600 mb-6 shadow-lg shadow-primary-500/30 animate-float">
+            <span className="text-3xl font-bold text-white drop-shadow-sm">D</span>
           </div>
-          <h1 className="text-4xl font-bold text-neutral-900 mb-2 tracking-tight">
+          <h1 className="text-4xl font-bold bg-gradient-to-r from-neutral-900 via-neutral-800 to-neutral-700 bg-clip-text text-transparent mb-3 tracking-tight">
             Dayflow
           </h1>
-          <p className="text-neutral-600 text-lg">
+          <p className="text-neutral-600 text-lg font-medium">
             Every workday, perfectly aligned
           </p>
         </div>
 
         {/* Login Card */}
-        <div className="card p-8 md:p-10 animate-slide-up">
+        <div className="card p-8 md:p-10 animate-slide-up border-0 shadow-soft-xl">
           <div className="mb-8">
             <h2 className="text-2xl font-semibold text-neutral-900 mb-2">
               Welcome back
