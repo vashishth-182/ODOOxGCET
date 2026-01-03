@@ -136,4 +136,14 @@ http://localhost:3000
 
 ---
 
+## 🎬 Demo Video
+
+Watch the complete demo of the project showcasing core features, UI flow, and functionality.
+
+👉 [Watch Demo on YouTube](https://youtu.be/EMq1Jm8WJck)
+
+---
+
 ⭐ If you like this project, give it a star on GitHub!
+
+---
