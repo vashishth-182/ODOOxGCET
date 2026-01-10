@@ -136,6 +136,12 @@ http://localhost:3000
 
 ---
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-0aa8a7?style=for-the-badge&logo=vercel)](https://dayflow-hrms-zeta.vercel.app/)
+
+---
+
 ## 🎬 Demo Video
 
 Watch the complete demo of the project showcasing core features, UI flow, and functionality.
